@@ -1,0 +1,1 @@
+25-05-08 11:18:04.647 [scheduling-1] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:65, serverValue:17499}] to ac-poiaf5i-shard-00-01.fgoapaj.mongodb.net:27017 
