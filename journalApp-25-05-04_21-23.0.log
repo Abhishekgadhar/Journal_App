@@ -1,5 +1,0 @@
-25-05-04 21:23:58.922 [main] INFO  n.e.journalApp.JournalApplication - Starting JournalApplication using Java 1.8.0_452 on Abhishek with PID 6936 (C:\Users\aniru\Downloads\journalApp\journalApp\target\classes started by aniru in C:\Users\aniru\Downloads\journalApp) 
-25-05-04 21:23:58.929 [main] INFO  n.e.journalApp.JournalApplication - No active profile set, falling back to 1 default profile: "default" 
-25-05-04 21:23:59.002 [main] WARN  o.s.b.c.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 26:5] 
-25-05-04 21:23:59.784 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode. 
-25-05-04 21:23:59.872 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 77 ms. Found 2 MongoDB repository interfaces. 
